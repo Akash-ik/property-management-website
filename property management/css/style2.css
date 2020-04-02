@@ -1,0 +1,32 @@
+body
+{
+margin: 0;
+padding: 0;
+background:url(pic.jpeg);
+background-size: cover;
+background-position: center;
+font-family: san-serif;
+}
+h1
+{
+Margin:0;
+Font-family: cursive;
+Font-style: italic;
+padding: 0 593 40px;
+}
+h2
+{
+margin: 0;
+Font-family: san-serif;
+Font-style: italic;
+padding: 0 630 30px;
+}
+h3
+{
+Margin:0;
+Font-style: italic;
+font-family: san-serif;
+Padding: 0 630 20px;
+color: white;
+}
+

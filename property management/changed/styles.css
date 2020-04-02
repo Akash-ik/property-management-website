@@ -1,0 +1,101 @@
+body
+
+{
+margin: 0;
+
+padding: 0;
+
+background:url(pic.jpeg);
+
+background-size: cover;
+
+background-position: center;
+
+font-family: san-serif;
+
+}
+
+.loginbox
+
+{
+
+width:500px;
+
+height:700px;
+
+background:#0000;
+
+color:#fff;
+
+top:50%;
+
+left:50%;
+
+Position:center;
+
+transform:translate(95%,5%);
+
+box-sizing:border-box;
+
+}
+
+h1
+{
+
+margin: 0
+
+padding:0 600 30px;
+
+Font-family:cursive;
+
+Font-style:italic;
+
+text-align:center;
+
+Font-size:40px;
+
+
+
+}
+
+h2{
+
+margin: 0;
+
+padding: 0 70 20px;
+
+color: gold;
+
+Font-family:cursive;
+
+text-align: center;
+
+font-size: 30px;
+
+}
+
+h3{
+
+Margin:0;
+
+Padding: 0 0 20px;
+
+Font-family: arial;
+
+Font-size: 20px;
+
+}
+
+h4
+{
+
+Margin:0;
+
+Padding: 0 0 20px;
+
+Font-family:arial;
+
+Font-size: 20px;
+
+}
+

@@ -1,0 +1,30 @@
+body
+{margin: 0;
+padding: 0;
+background:url(pic.jpeg);
+background-size: cover;
+background-position: center;
+font-family: san-serif;
+}
+h1
+{
+
+margin: 0
+padding:0 600 30px;
+
+Font-family:cursive;
+
+Font-style:italic;
+
+text-align:center;
+
+Font-size:35px;
+
+
+
+color:gold;
+-webkit-text-fill-color: yellow;
+-webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: black;
+}
+

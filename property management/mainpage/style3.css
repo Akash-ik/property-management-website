@@ -1,0 +1,55 @@
+body
+{
+margin: 0;
+padding: 0;
+background:url(pic4.jpeg);
+background-size: cover;
+background-position: center;
+font-family: san-serif;
+}
+
+video
+{
+position:absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+min-width: 100%;
+min-height: 100%;
+width: auto;
+height: auto;
+z-index: 1;
+}
+.text
+{
+z-index: 2;
+Padding: 300 345 8000px; 
+position: absolute;
+Font-family:cursive;
+Font-style: italic;
+Color: white;
+Font-size: 50px;
+
+}
+h1{
+margin: 0
+;
+padding:0 300 0px;
+
+Font-family:cursive;
+
+Font-style:italic;
+
+text-align:center;
+
+Font-size:40px;
+
+
+
+
+color:gold;
+-webkit-text-fill-color: yellow;
+-webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: black;
+}
+
